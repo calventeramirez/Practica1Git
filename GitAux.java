@@ -32,6 +32,7 @@ public class GitAux {
 	// modificaciones alumno 1
 	System.out.println("Alumno 1 inserta esta sentencia");
 	// modificaciones alumno 2
-	System.out.println("Alumno 2 inserta esta sentencia");
+	System.out.println("Alumno 2 inserta esta sentencia");
+	// linea annadida porque si
     }
 }
