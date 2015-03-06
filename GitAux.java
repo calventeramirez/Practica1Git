@@ -36,5 +36,6 @@ public class GitAux {
 	System.out.println("Alumno 2 inserta esta sentencia");
 	// modificaciones alumno 2
 	System.out.println("Alumno 3 inserta esta sentencia");
-    }
+	// linea annadida porque si y la cambio
+	 }
 }
