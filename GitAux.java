@@ -2,11 +2,15 @@ package pkgGitHub;
 
 /**
  *
- * @author alumno: <escribe tu nombre aqui>
+ * @author alumno: <Pablo>
  * @author alumno: <escribe tu nombre aqui>
  * @author alumno: <escribe tu nombre aqui>
  * 
- */
+ *
+*
+ * modificacion 
+*/
+
 public class GitAux {
     
     public void metodoAlumno1(){
